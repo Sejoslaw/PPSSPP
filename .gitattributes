@@ -1,0 +1,2 @@
+PSP/SAVEDATA/ULUS10457DATA/SOUL.BD filter=lfs diff=lfs merge=lfs -text
+PSP/SAVEDATA/ULES01298DATA/SOUL.BD filter=lfs diff=lfs merge=lfs -text
